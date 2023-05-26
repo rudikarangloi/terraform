@@ -1,5 +1,5 @@
 module "vpc-staging" {
-  source = "../../../../module/aws/vpc"
+  source = "../../../../module/aws/network"
 
   access_key = "AKIASDLPQMP6PQ2C7KO6"
   secret_key = "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"

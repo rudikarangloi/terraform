@@ -3,3 +3,5 @@
 # terraform apply
 # terraform apply -auto-remove
 # terraform remove
+
+# terragrunt apply

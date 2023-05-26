@@ -1,5 +1,5 @@
 terraform {
-    source = "../../../../..//module/aws/vpc"
+    source = "../../../../..//module/aws/network"
 }
 
 include {
